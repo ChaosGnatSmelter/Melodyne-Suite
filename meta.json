@@ -1,0 +1,23 @@
+{
+  "repo": "melodyne-suite",
+  "product": "Melodyne Suite",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "melodyne",
+    "melodyne-windows",
+    "audio-production-desktop",
+    "how-to-install-melodyne",
+    "melodyne-desktop-package",
+    "melodyne-workspace",
+    "melodyne-pro-tools",
+    "melodyne-suite",
+    "zentool-melodyne",
+    "melodyne-tool-9"
+  ],
+  "site": "zentool.art"
+}
